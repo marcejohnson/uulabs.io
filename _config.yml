@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: UU Labs
-logo: "/assets/images/88x88.png"
+logo: "/assets/images/logo.png"
 email: info@uulabs.io
 description: Uncommon Union (UU) Labs provides powerful tools, proven platforms, as well as custom development that leverage recent advances in artificial intelligence, IOT, cloud architecture, robotics, and more. UU Labs recognizes we are in the midst of profound technological change that is transforming e-commerce, manufacturing, and industrial supply. UU Labs provides the tools which will help businesses realize new opportunities, reinvent themselves, or simply operate with greater efficiency.
 twitter_username: 2marc
@@ -55,21 +55,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "UU Labs"
-  avatar : "/assets/images/logo.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://uulabs.io"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/marcejohnson"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/johnsonmarc/"
-
 footer:
   links:
     - label: "Website"
@@ -88,7 +73,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
