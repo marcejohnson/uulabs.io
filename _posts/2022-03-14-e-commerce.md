@@ -9,7 +9,12 @@ tags:
   - retail
   - web
   - allocation
+gallery:
+  - image_path: /assets/images/cardboard-boxes-on-living-room-3434533.jpeg
+  - image_path: /assets/images/selective-focus-photography-of-woman-holding-black-cased-1390534.jpeg
+  - image_path: /assets/images/white-barcode-scanner-1781489.jpeg
 ---
+{% include gallery %}
 
 # Case Study: Competing with Amazon
 
