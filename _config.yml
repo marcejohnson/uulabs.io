@@ -20,7 +20,6 @@ twitter_username: 2marc
 github_username: marcejohnson
 minimal_mistakes_skin: default
 search: true
-baseurl: ''
 
 # Build settings
 markdown: kramdown
