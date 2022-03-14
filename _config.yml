@@ -63,12 +63,13 @@ footer:
       url: "https://www.linkedin.com/in/johnsonmarc/"
 
 defaults:
+
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: posts
       author_profile: true
       read_time: true
       comments: true
