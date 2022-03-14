@@ -15,7 +15,6 @@ gallery:
   - image_path: /assets/images/white-barcode-scanner-1781489.jpeg
 ---
 {% include gallery %}
-
 # Case Study: Competing with Amazon
 
 ## Background

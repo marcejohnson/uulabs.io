@@ -14,7 +14,6 @@ gallery:
   - image_path: /assets/images/rocket.jpeg
 ---
 {% include gallery %}
-
 # Case Study: Lowering Costs Through E-Procurement
 
 ## Background
