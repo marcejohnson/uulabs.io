@@ -8,7 +8,12 @@ tags:
   - enterprise
   - manufacturer
   - supply-chains
+gallery:
+  - image_path: /assets/images/staff-back.jpeg
+  - image_path: /assets/images/white-generator-set-near-industrial-machines-1468390.jpeg
+  - image_path: /assets/images/rocket.jpeg
 ---
+{% include gallery %}
 
 # Case Study: Lowering Costs Through E-Procurement
 
