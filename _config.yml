@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "UU Labs"
-  avatar : "/assets/images/uulabs_no_border.jpg"
+  avatar : "/assets/images/uulabs_no_border.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
