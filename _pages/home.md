@@ -20,5 +20,3 @@ feature_row:
 {% endfor %}
 
 {% include feature_row  %}
-
-![image-left](/assets/images/blue-and-yellow-phone-modules-1476321.jpeg){: .align-left} You can also place some text right after the image command, and it will nicely wrapp around the image.
