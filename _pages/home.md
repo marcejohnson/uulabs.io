@@ -14,7 +14,4 @@ feature_row:
   - image_path: /assets/images/blue-and-yellow-phone-modules-1476321.jpeg
 ---
 {% include feature_row id="intro" type="center" %}
-{% for f in site.posts limit:3 %}
-    <!-- can stay the same as the current feature_row include -->
-{% endfor %}
 {% include feature_row  %}
