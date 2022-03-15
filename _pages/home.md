@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2022-03-14T11:48:41-04:00
 header:
-  overlay_image: /assets/images/circuit-board-2182863.jpeg
+  overlay_image: /assets/images/circuit-board-2182863.png
   overlay_color: "#000"
   overlay_filter: "0.5"
 excerpt: "We are in the midst of profound technological change that is transforming e-commerce, manufacturing, and industrial supply."
@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: /assets/images/blue-and-yellow-phone-modules-1476321.jpeg
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 {% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
