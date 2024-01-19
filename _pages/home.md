@@ -2,7 +2,7 @@
 title: "UU Labs"
 layout: splash
 permalink: /
-date: 2022-03-14T11:48:41-04:00
+date: 2024-03-14T11:48:41-04:00
 header:
   overlay_image: /assets/images/circuit-board-2182863.png
   overlay_color: "#000"
